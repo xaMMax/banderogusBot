@@ -24,12 +24,12 @@ public class Main extends TelegramLongPollingBot {
 
     @Override
     public String getBotUsername() {
-        return "Myfkng_bot";
+        return "BOT_USERNAME_TO_CHANGE";
     }
 
     @Override
     public String getBotToken() {
-        return "6524984859:AAHoA4ArMQCCEDQrEItzqDmeBDwc7VXx1Ck";
+        return "BOT_TOKEN_TO_CHANGE";
     }
 
     @Override
